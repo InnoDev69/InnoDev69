@@ -52,7 +52,7 @@ if __name__ == '__main__':
 <p align="left">
   <a href="https://abhigyantrips.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hyperdownload&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hyperdownload&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
@@ -61,6 +61,4 @@ if __name__ == '__main__':
 
 ------
 
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
-
-Last Edited on: 24/12/2021
+Last Edited on: 30/10/2024
