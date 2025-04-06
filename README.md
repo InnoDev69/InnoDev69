@@ -21,12 +21,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=InnoDev69&theme=react-dark&hide_border=true" width="100%"/>
 
-<div align="left">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" height="16" /> XX Contributions in 2025<br>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" height="16" /> XX Public Repos<br>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" height="16" /> Joined GitHub X years ago
-</div>
-
 ## Mis Tecnologías
 
 <div align="center">
