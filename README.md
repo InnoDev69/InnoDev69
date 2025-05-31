@@ -44,7 +44,7 @@
 ## Contáctame
 
 <div align="center">
-  <a href="https://instagram.com/thiaagoonunez">
+  <a href="https://instagram.com/thiaago.nunez">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <!-- Agrega más redes sociales según necesites -->
