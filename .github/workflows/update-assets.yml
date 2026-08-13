@@ -32,6 +32,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.ASSETS_TOKEN }}
           GH_LOGIN: InnoDev69
+          DISPLAY_NAME: Thiago Nuñez
         run: python scripts/generate_assets.py
 
       - name: Commitear cambios si hay diferencias
