@@ -1,0 +1,22 @@
+<svg width="450" height="107" viewBox="0 0 450 107" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #161b22; }
+    .border { fill: none; stroke: #a41c1c; stroke-width: 1.5; }
+    .title { font: 600 15px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e6e6e6; }
+    .label { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b8f98; }
+    .value { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e6e6e6; }
+    .accent { fill: #a41c1c; }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="449" height="106" rx="10"/>
+  <rect class="border" x="0.5" y="0.5" width="449" height="106" rx="10"/>
+  <text x="25" y="35" class="title">Lenguajes principales</text>
+  <rect x="25" y="45" width="40" height="3" class="accent"/>
+  <text x="25" y="75" class="label">Python</text>
+  <rect x="150" y="63" width="260" height="10" rx="5" fill="#161b22" stroke="#8b8f98" stroke-width="0.5" opacity="0.4"/>
+  <rect x="150" y="63" width="260" height="10" rx="5" fill="#3572A5"/>
+  <text x="420" y="75" class="value">7</text>
+  <text x="25" y="101" class="label">HTML</text>
+  <rect x="150" y="89" width="260" height="10" rx="5" fill="#161b22" stroke="#8b8f98" stroke-width="0.5" opacity="0.4"/>
+  <rect x="150" y="89" width="111" height="10" rx="5" fill="#e34c26"/>
+  <text x="420" y="101" class="value">3</text>
+</svg>

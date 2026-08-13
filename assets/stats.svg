@@ -1,0 +1,26 @@
+<svg width="450" height="261" viewBox="0 0 450 261" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #161b22; }
+    .border { fill: none; stroke: #a41c1c; stroke-width: 1.5; }
+    .title { font: 600 15px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e6e6e6; }
+    .label { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b8f98; }
+    .value { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e6e6e6; }
+    .accent { fill: #a41c1c; }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="449" height="260" rx="10"/>
+  <rect class="border" x="0.5" y="0.5" width="449" height="260" rx="10"/>
+  <text x="25" y="35" class="title">Estadísticas de Dev_</text>
+  <rect x="25" y="45" width="40" height="3" class="accent"/>
+  <text x="25" y="78" class="label">Repositorios públicos</text>
+  <text x="425" y="78" text-anchor="end" class="value">10</text>
+  <text x="25" y="106" class="label">Estrellas totales</text>
+  <text x="425" y="106" text-anchor="end" class="value">9</text>
+  <text x="25" y="134" class="label">Commits (último año)</text>
+  <text x="425" y="134" text-anchor="end" class="value">360</text>
+  <text x="25" y="162" class="label">Pull requests</text>
+  <text x="425" y="162" text-anchor="end" class="value">49</text>
+  <text x="25" y="190" class="label">Issues</text>
+  <text x="425" y="190" text-anchor="end" class="value">4</text>
+  <text x="25" y="218" class="label">Seguidores</text>
+  <text x="425" y="218" text-anchor="end" class="value">6</text>
+</svg>
