@@ -1,0 +1,30 @@
+<svg width="480" height="272" viewBox="0 0 480 272" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f1218"/>
+      <stop offset="1" stop-color="#1b1f28"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a41c1c"/>
+      <stop offset="1" stop-color="#ff5b5b"/>
+    </linearGradient>
+    <clipPath id="avatarClip"><circle cx="0" cy="0" r="26"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="478" height="270" rx="14" fill="url(#bgGrad)" stroke="#a41c1c" stroke-width="1.3"/>
+  <text x="26" y="34" font-family="Segoe UI, Ubuntu, sans-serif" font-size="19" font-weight="700" fill="#f3f3f3">Proyectos destacados</text>
+  <rect x="26" y="64" width="428" height="1" fill="#262b35"/>
+  <rect x="26" y="78" width="428" height="78" rx="10" fill="#262b35" opacity="0.55"/>
+  <text x="42" y="104" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14.5" font-weight="700" fill="#f3f3f3">CTkDesigner</text>
+  <text x="42" y="125" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#9099a8">CTkDesigner es un editor visual para crear interfaces grá…</text>
+  <circle cx="42" cy="142" r="4.5" fill="#3572A5"/>
+  <text x="52" y="146" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11.5" fill="#9099a8">Python</text>
+  <g transform="translate(390,142) scale(1.25)" stroke="#ff5b5b" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><polygon points="0.00,-7.00 1.76,-2.43 6.66,-2.16 2.85,0.93 4.11,5.66 0.00,3.00 -4.11,5.66 -2.85,0.93 -6.66,-2.16 -1.76,-2.43" fill="#ff5b5b" stroke="none"/></g>
+  <text x="402" y="146" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11.5" font-weight="700" fill="#f3f3f3">7</text>
+  <rect x="26" y="170" width="428" height="78" rx="10" fill="#262b35" opacity="0.55"/>
+  <text x="42" y="196" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14.5" font-weight="700" fill="#f3f3f3">StockManager</text>
+  <text x="42" y="217" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#9099a8">Sistema de gestión de inventario y ventas con Flask + SQL…</text>
+  <circle cx="42" cy="234" r="4.5" fill="#e34c26"/>
+  <text x="52" y="238" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11.5" fill="#9099a8">HTML</text>
+  <g transform="translate(390,234) scale(1.25)" stroke="#ff5b5b" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><polygon points="0.00,-7.00 1.76,-2.43 6.66,-2.16 2.85,0.93 4.11,5.66 0.00,3.00 -4.11,5.66 -2.85,0.93 -6.66,-2.16 -1.76,-2.43" fill="#ff5b5b" stroke="none"/></g>
+  <text x="402" y="238" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11.5" font-weight="700" fill="#f3f3f3">2</text>
+  </svg>
