@@ -1,65 +1,85 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a41c1c&height=200&section=header&text=HI%20THERE!&fontSize=60&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38&desc=I%20am%20Thiago%20Nuñez!&descAlignY=60&descAlign=50" width="100%"/>
 
-  <h2>Welcome to my Github Profile</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=a41c1c&height=180&section=header&text=Thiago%20Nu%C3%B1ez&fontSize=45&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descAlign=50" width="100%"/>
+
+<br>
+
+[![Instagram](https://img.shields.io/badge/Instagram-a41c1c?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/thiaago.nunez)
+&nbsp;
+![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/InnoDev69/readme&label=views&color=a41c1c&style=flat-square)
+
 </div>
 
-# ⚡ STATS ⚡
+<br>
+
+Desarrollador de software enfocado en aplicaciones de escritorio, herramientas de automatización y desarrollo web. Disfruto construir proyectos prácticos y explorar distintos niveles de la pila tecnológica.
+
+<br>
+
+### Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InnoDev69&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InnoDev69&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="49%" />
+
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=777BB4)
+![C++](https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=00599C)
+![CMake](https://img.shields.io/badge/CMake-1a1a1a?style=flat-square&logo=cmake&logoColor=064F8C)
+![SQLite](https://img.shields.io/badge/SQLite-1a1a1a?style=flat-square&logo=sqlite&logoColor=07405E)
+
 </div>
 
-## Thiago Nuñez's GitHub Stats
+<br>
+
+### Estadísticas
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InnoDev69&theme=radical" width="100%" />
+<img src="./assets/stats.svg" alt="Estadísticas de GitHub" width="100%"/>
 </div>
 
-## Activity
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=InnoDev69&theme=react-dark&hide_border=true" width="100%"/>
-
-## Mis Tecnologías
+### Racha de contribuciones
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge"/>
-  <img src="https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php"/>
-  
-  <!-- Agrega más tecnologías según necesites -->
+<img src="./assets/streak.svg" alt="Racha de contribuciones" width="100%"/>
 </div>
 
-## Proyectos Destacados
+<br>
+
+### Lenguajes principales
 
 <div align="center">
-  <a href="https://github.com/InnoDev69/CTkDesigner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=InnoDev69&repo=CTkDesigner&theme=radical" />
-  </a>
-  <a href="https://github.com/InnoDev69/WhatsArch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=InnoDev69&repo=WhatsArch&theme=radical" />
-  </a>
+<img src="./assets/languages.svg" alt="Lenguajes principales" width="100%"/>
 </div>
 
-## Contáctame
+<sub>Estos gráficos se generan automáticamente todos los días mediante GitHub Actions, a partir de datos reales de la API de GitHub (ver <code>scripts/generate_assets.py</code>).</sub>
+
+<br>
+
+### Proyectos destacados
 
 <div align="center">
-  <a href="https://instagram.com/thiaago.nunez">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <!-- Agrega más redes sociales según necesites -->
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/InnoDev69/CTkDesigner">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=InnoDev69&repo=CTkDesigner&theme=radical" width="100%"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/InnoDev69/WhatsArch">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=InnoDev69&repo=WhatsArch&theme=radical" width="100%"/>
+</a>
+</td>
+</tr>
+</table>
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=InnoDev69&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <p>¡Gracias por visitar mi perfil! 😄</p>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=a41c1c&height=100&section=footer" width="100%"/>
-
+</div>
