@@ -6,7 +6,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-a41c1c?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/thiaago.nunez)
 &nbsp;
-![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/InnoDev69/readme&label=views&color=a41c1c&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=InnoDev69&color=a41c1c&style=flat-square&label=views)
 
 </div>
 
@@ -62,20 +62,9 @@ Desarrollador de software enfocado en aplicaciones de escritorio, herramientas d
 ### Proyectos destacados
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/InnoDev69/CTkDesigner">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=InnoDev69&repo=CTkDesigner&theme=radical" width="100%"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/InnoDev69/WhatsArch">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=InnoDev69&repo=WhatsArch&theme=radical" width="100%"/>
-</a>
-</td>
-</tr>
-</table>
+<img src="./assets/projects.svg" alt="Proyectos destacados" width="100%"/>
+<br>
+<sub><a href="https://github.com/InnoDev69?tab=repositories&sort=stargazers">Ver todos los repositorios</a></sub>
 </div>
 
 <br>
