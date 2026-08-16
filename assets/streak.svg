@@ -21,7 +21,7 @@
   <text x="240.0" y="166" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#9099a8">Racha más larga</text>
   <line x1="160.0" y1="84" x2="160.0" y2="154" stroke="#262b35" stroke-width="1"/>
   <g transform="translate(400.0,100) scale(1.375)" stroke="#ff5b5b" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><polygon points="0.00,-7.00 1.76,-2.43 6.66,-2.16 2.85,0.93 4.11,5.66 0.00,3.00 -4.11,5.66 -2.85,0.93 -6.66,-2.16 -1.76,-2.43" fill="#ff5b5b" stroke="none"/></g>
-  <text x="400.0" y="146" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="24" font-weight="700" fill="#f3f3f3">435</text>
+  <text x="400.0" y="146" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="24" font-weight="700" fill="#f3f3f3">434</text>
   <text x="400.0" y="166" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#9099a8">Contribuciones (año)</text>
   <line x1="320.0" y1="84" x2="320.0" y2="154" stroke="#262b35" stroke-width="1"/>
   </svg>
