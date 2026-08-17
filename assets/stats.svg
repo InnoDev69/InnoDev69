@@ -27,7 +27,7 @@
   <text x="454" y="152" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="700" fill="#f3f3f3">9</text>
   <g transform="translate(40,187) scale(1.625)" stroke="#ff5b5b" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle r="3"/><line x1="-8" y1="0" x2="-3" y2="0"/><line x1="3" y1="0" x2="8" y2="0"/></g>
   <text x="64" y="192" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13.5" fill="#9099a8">Commits (último año)</text>
-  <text x="454" y="192" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="700" fill="#f3f3f3">364</text>
+  <text x="454" y="192" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="700" fill="#f3f3f3">363</text>
   <g transform="translate(40,227) scale(1.625)" stroke="#ff5b5b" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="-5" cy="-5" r="2"/><circle cx="-5" cy="5" r="2"/><circle cx="5" cy="5" r="2"/><line x1="-5" y1="-3" x2="-5" y2="3"/><path d="M -5 -3 C -5 -6 5 -6 5 3"/></g>
   <text x="64" y="232" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13.5" fill="#9099a8">Pull requests</text>
   <text x="454" y="232" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="700" fill="#f3f3f3">49</text>
