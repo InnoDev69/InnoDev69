@@ -15,10 +15,10 @@
   <rect x="26" y="64" width="428" height="1" fill="#262b35"/>
   <text x="26" y="99" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#9099a8">Python</text>
   <rect x="150" y="88" width="260" height="9" rx="4.5" fill="#262b35"/>
-  <rect x="150" y="88" width="182" height="9" rx="4.5" fill="#3572A5"/>
-  <text x="454" y="99" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12.5" font-weight="700" fill="#f3f3f3">70%</text>
+  <rect x="150" y="88" width="173" height="9" rx="4.5" fill="#3572A5"/>
+  <text x="454" y="99" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12.5" font-weight="700" fill="#f3f3f3">67%</text>
   <text x="26" y="131" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#9099a8">HTML</text>
   <rect x="150" y="120" width="260" height="9" rx="4.5" fill="#262b35"/>
-  <rect x="150" y="120" width="78" height="9" rx="4.5" fill="#e34c26"/>
-  <text x="454" y="131" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12.5" font-weight="700" fill="#f3f3f3">30%</text>
+  <rect x="150" y="120" width="86" height="9" rx="4.5" fill="#e34c26"/>
+  <text x="454" y="131" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12.5" font-weight="700" fill="#f3f3f3">33%</text>
   </svg>
