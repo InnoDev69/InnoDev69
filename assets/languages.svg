@@ -21,8 +21,8 @@
   <rect x="150" y="120" width="260" height="9" rx="4.5" fill="#262b35"/>
   <rect x="150" y="120" width="70" height="9" rx="4.5" fill="#e34c26"/>
   <text x="454" y="131" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12.5" font-weight="700" fill="#f3f3f3">27%</text>
-  <text x="26" y="163" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#9099a8">TSQL</text>
+  <text x="26" y="163" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#9099a8">ASP.NET</text>
   <rect x="150" y="152" width="260" height="9" rx="4.5" fill="#262b35"/>
-  <rect x="150" y="152" width="23" height="9" rx="4.5" fill="#e38c00"/>
+  <rect x="150" y="152" width="23" height="9" rx="4.5" fill="#9400ff"/>
   <text x="454" y="163" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12.5" font-weight="700" fill="#f3f3f3">9%</text>
   </svg>
